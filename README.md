@@ -19,3 +19,6 @@
 
 7. Izpis iz Redisa v lokalnem okolju.
 ![alt text](https://github.com/Nejc7777/Slike-projekta/blob/main/Screens/Screenshot_7.png)
+
+8. Heroku log napaka.
+![alt text](https://github.com/Nejc7777/Slike-projekta/blob/main/Screens/Screenshot_8.png)
